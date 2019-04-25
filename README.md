@@ -12,7 +12,7 @@ metadata:
 spec:
   source:                       
     git:
-      uri: https://github.com/williamcaban/custom-jenkins.git
+      uri: https://github.com/williamcaban/openshift-custom-jenkins.git
     type: Git
   strategy:                     
     sourceStrategy:
